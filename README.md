@@ -3,6 +3,7 @@
     <img src="https://skillicons.dev/icons?i=aws,gcp,azure,angular,git,kubernetes,docker,cloudflare,grafana,graphql,powershell,rabbitmq&perline=3" />
   </a>
 </p>
+<a href="https://app.daily.dev/sebboe"><img src="https://api.daily.dev/devcards/v2/8WecDsi50w5nly0Ben2LQ.png?r=qmf" width="356" alt="Sébastien Boeyen's Dev Card"/></a>
 <!--
 **sebboe/sebboe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/sebboe"><img src="https://api.daily.dev/devcards/v2/8WecDsi50w5nly0Ben2LQ.png?r=qmf" width="356" alt="Sébastien Boeyen's Dev Card"/></a>
